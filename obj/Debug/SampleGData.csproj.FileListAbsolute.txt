@@ -1,0 +1,12 @@
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\bin\Debug\SampleGData.exe
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\bin\Debug\SampleGData.pdb
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\bin\Debug\Google.GData.Calendar.dll
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\bin\Debug\Google.GData.Client.dll
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\bin\Debug\Google.GData.AccessControl.dll
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\bin\Debug\Google.GData.Extensions.dll
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\obj\Debug\SampleGData.Form1.resources
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\obj\Debug\SampleGData.Properties.Resources.resources
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\obj\Debug\SampleGData.csproj.GenerateResource.Cache
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\obj\Debug\SampleGData.exe
+C:\Documents and Settings\msk\My Documents\Visual Studio 2008\Projects\SampleGData\obj\Debug\SampleGData.pdb
